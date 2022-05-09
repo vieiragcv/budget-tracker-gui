@@ -1,3 +1,6 @@
+require("bootstrap");
+require("@popperjs/core");
+
 let transactions = [];
 let myChart;
 
